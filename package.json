@@ -1,0 +1,13 @@
+{
+  "name": "http_tester",
+  "version": "1.0.0",
+  "description": "Repetitively request from an a URL over HTTPS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aaron Todd <toddaa@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

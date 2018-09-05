@@ -1,0 +1,3 @@
+# https tester
+
+This is a quick and dirty utility to continuiously request from a URL until an error code isn't thrown.  
